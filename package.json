@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/DevelopersGuild/DG-forum"
   },
-  "homepage": "http://forum.developersguild.net",
+  "homepage": "http://forum.developersguild.io",
   "license": "MIT",
   "dependencies": {
     "async": "^0.9.0",

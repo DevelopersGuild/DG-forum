@@ -55,7 +55,7 @@ We'll be using [Airbnb's Javascript Style Guide](https://github.com/airbnb/javas
 
 **License (MIT)**
 
-Copyright (c) 2015 Developers' Guild ([http://developersguild.net/](http://developersguild.net/))
+Copyright (c) 2015 Developers' Guild ([https://developersguild.io/](https://developersguild.io/))
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
